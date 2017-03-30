@@ -1,0 +1,26 @@
+Dependencies for Project 'uart', Target 'Simulator': (DO NOT MODIFY !)
+F (.\startup\startup_LPC17xx.s)(0x4F58EF5C)(--cpu Cortex-M3 --pd "__EVAL SETA 1" -g --apcs=interwork -I C:\Keil_v5\ARM\RV31\INC-I C:\Keil_v5\ARM\CMSIS\Include-I C:\Keil_v5\ARM\Inc\NXP\LPC17xx--pd "LPC175x_6x SETA 1"--list .\lst\startup_lpc17xx.lst --xref -o .\obj\startup_lpc17xx.o --depend .\obj\startup_lpc17xx.d)
+F (.\startup\system_LPC17xx.c)(0x4F91513C)(-c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork -I.\include-I C:\Keil_v5\ARM\RV31\INC-I C:\Keil_v5\ARM\CMSIS\Include-I C:\Keil_v5\ARM\Inc\NXP\LPC17xx-DLPC175x_6x-o .\obj\system_lpc17xx.o --omf_browse .\obj\system_lpc17xx.crf --depend .\obj\system_lpc17xx.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x541A544A)
+I (.\include\LPC17xx.h)(0x52583DEA)
+I (.\include\core_cm3.h)(0x52583DF2)
+I (.\include\core_cmInstr.h)(0x52583DF8)
+I (.\include\core_cmFunc.h)(0x52583E00)
+I (.\include\system_LPC17xx.h)(0x52583E06)
+F (.\source\Serial.c)(0x53614E04)(-c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork -I.\include-I C:\Keil_v5\ARM\RV31\INC-I C:\Keil_v5\ARM\CMSIS\Include-I C:\Keil_v5\ARM\Inc\NXP\LPC17xx-DLPC175x_6x-o .\obj\serial.o --omf_browse .\obj\serial.crf --depend .\obj\serial.d)
+I (.\include\lpc17xx.h)(0x52583DEA)
+I (.\include\core_cm3.h)(0x52583DF2)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x541A544A)
+I (.\include\core_cmInstr.h)(0x52583DF8)
+I (.\include\core_cmFunc.h)(0x52583E00)
+I (.\include\system_LPC17xx.h)(0x52583E06)
+I (.\include\Serial.h)(0x4F58EF5C)
+F (.\lab10a.c)(0x56FA0051)(-c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork -I.\include-I C:\Keil_v5\ARM\RV31\INC-I C:\Keil_v5\ARM\CMSIS\Include-I C:\Keil_v5\ARM\Inc\NXP\LPC17xx-DLPC175x_6x-o .\obj\lab10a.o --omf_browse .\obj\lab10a.crf --depend .\obj\lab10a.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x541A544C)
+I (.\include\LPC17xx.H)(0x52583DEA)
+I (.\include\core_cm3.h)(0x52583DF2)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x541A544A)
+I (.\include\core_cmInstr.h)(0x52583DF8)
+I (.\include\core_cmFunc.h)(0x52583E00)
+I (.\include\system_LPC17xx.h)(0x52583E06)
+I (.\include\Serial.h)(0x4F58EF5C)

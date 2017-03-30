@@ -1,0 +1,30 @@
+Dependencies for Project 'uart', Target 'Simulator': (DO NOT MODIFY !)
+F (.\startup\startup_LPC17xx.s)(0x4F58EF5C)(--cpu Cortex-M3 --pd "__EVAL SETA 1" -g --apcs=interwork -I C:\Keil_v5\ARM\RV31\INC-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include-I C:\Keil_v5\ARM\Inc\NXP\LPC17xx--list .\lst\startup_lpc17xx.lst --xref -o .\obj\startup_lpc17xx.o --depend .\obj\startup_lpc17xx.d)
+F (.\startup\system_LPC17xx.c)(0x4F91513C)(-c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork -I.\include-I C:\Keil_v5\ARM\RV31\INC-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include-I C:\Keil_v5\ARM\Inc\NXP\LPC17xx-DLPC1700 -o .\obj\system_lpc17xx.o --omf_browse .\obj\system_lpc17xx.crf --depend .\obj\system_lpc17xx.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x52FE894E)
+I (.\include\LPC17xx.h)(0x52583DEB)
+I (.\include\core_cm3.h)(0x52583DF2)
+I (.\include\core_cmInstr.h)(0x52583DF9)
+I (.\include\core_cmFunc.h)(0x52583E00)
+I (.\include\system_LPC17xx.h)(0x52583E07)
+F (.\source\mystery.s)(0x536155A9)(--cpu Cortex-M3 --pd "__EVAL SETA 1" -g --apcs=interwork -I C:\Keil_v5\ARM\RV31\INC-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include-I C:\Keil_v5\ARM\Inc\NXP\LPC17xx--list .\lst\mystery.lst --xref -o .\obj\mystery.o --depend .\obj\mystery.d)
+F (.\source\main_asm.c)(0x53615346)(-c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork -I.\include-I C:\Keil_v5\ARM\RV31\INC-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include-I C:\Keil_v5\ARM\Inc\NXP\LPC17xx-DLPC1700 -o .\obj\main_asm.o --omf_browse .\obj\main_asm.crf --depend .\obj\main_asm.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x52FE894E)
+I (.\include\LPC17xx.H)(0x52583DEB)
+I (.\include\core_cm3.h)(0x52583DF2)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x52FE894E)
+I (.\include\core_cmInstr.h)(0x52583DF9)
+I (.\include\core_cmFunc.h)(0x52583E00)
+I (.\include\system_LPC17xx.h)(0x52583E07)
+I (.\include\Serial.h)(0x4F58EF5C)
+F (.\source\Retarget.c)(0x527DC35F)(-c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork -I.\include-I C:\Keil_v5\ARM\RV31\INC-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include-I C:\Keil_v5\ARM\Inc\NXP\LPC17xx-DLPC1700 -o .\obj\retarget.o --omf_browse .\obj\retarget.crf --depend .\obj\retarget.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x52FE894E)
+I (.\include\Serial.h)(0x4F58EF5C)
+F (.\source\Serial.c)(0x53614E05)(-c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork -I.\include-I C:\Keil_v5\ARM\RV31\INC-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include-I C:\Keil_v5\ARM\Inc\NXP\LPC17xx-DLPC1700 -o .\obj\serial.o --omf_browse .\obj\serial.crf --depend .\obj\serial.d)
+I (.\include\lpc17xx.h)(0x52583DEB)
+I (.\include\core_cm3.h)(0x52583DF2)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x52FE894E)
+I (.\include\core_cmInstr.h)(0x52583DF9)
+I (.\include\core_cmFunc.h)(0x52583E00)
+I (.\include\system_LPC17xx.h)(0x52583E07)
+I (.\include\Serial.h)(0x4F58EF5C)

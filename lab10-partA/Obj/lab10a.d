@@ -1,0 +1,9 @@
+.\obj\lab10a.o: lab10a.c
+.\obj\lab10a.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\obj\lab10a.o: .\include\LPC17xx.H
+.\obj\lab10a.o: .\include\core_cm3.h
+.\obj\lab10a.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\obj\lab10a.o: .\include\core_cmInstr.h
+.\obj\lab10a.o: .\include\core_cmFunc.h
+.\obj\lab10a.o: .\include\system_LPC17xx.h
+.\obj\lab10a.o: .\include\Serial.h
