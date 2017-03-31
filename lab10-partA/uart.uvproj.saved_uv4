@@ -82,8 +82,6 @@
             <UserProg2Name></UserProg2Name>
             <UserProg1Dos16Mode>0</UserProg1Dos16Mode>
             <UserProg2Dos16Mode>0</UserProg2Dos16Mode>
-            <nStopA1X>0</nStopA1X>
-            <nStopA2X>0</nStopA2X>
           </AfterMake>
           <SelectedForBatchBuild>0</SelectedForBatchBuild>
           <SVCSIdString></SVCSIdString>
@@ -361,8 +359,6 @@
             <uSurpInc>0</uSurpInc>
             <uC99>0</uC99>
             <useXO>0</useXO>
-            <v6Lang>0</v6Lang>
-            <v6LangP>0</v6LangP>
             <VariousControls>
               <MiscControls></MiscControls>
               <Define></Define>
@@ -431,9 +427,9 @@
               <FilePath>.\source\Serial.c</FilePath>
             </File>
             <File>
-              <FileName>lab10b.c</FileName>
+              <FileName>lab10a.c</FileName>
               <FileType>1</FileType>
-              <FilePath>.\lab10b.c</FilePath>
+              <FilePath>.\lab10a.c</FilePath>
             </File>
           </Files>
         </Group>
@@ -515,8 +511,6 @@
             <UserProg2Name></UserProg2Name>
             <UserProg1Dos16Mode>0</UserProg1Dos16Mode>
             <UserProg2Dos16Mode>0</UserProg2Dos16Mode>
-            <nStopA1X>0</nStopA1X>
-            <nStopA2X>0</nStopA2X>
           </AfterMake>
           <SelectedForBatchBuild>0</SelectedForBatchBuild>
           <SVCSIdString></SVCSIdString>
@@ -794,8 +788,6 @@
             <uSurpInc>0</uSurpInc>
             <uC99>0</uC99>
             <useXO>0</useXO>
-            <v6Lang>0</v6Lang>
-            <v6LangP>0</v6LangP>
             <VariousControls>
               <MiscControls></MiscControls>
               <Define>__USE_LCD __ADC_IRQ</Define>
@@ -864,9 +856,9 @@
               <FilePath>.\source\Serial.c</FilePath>
             </File>
             <File>
-              <FileName>lab10b.c</FileName>
+              <FileName>lab10a.c</FileName>
               <FileType>1</FileType>
-              <FilePath>.\lab10b.c</FilePath>
+              <FilePath>.\lab10a.c</FilePath>
             </File>
           </Files>
         </Group>
@@ -948,8 +940,6 @@
             <UserProg2Name></UserProg2Name>
             <UserProg1Dos16Mode>0</UserProg1Dos16Mode>
             <UserProg2Dos16Mode>0</UserProg2Dos16Mode>
-            <nStopA1X>0</nStopA1X>
-            <nStopA2X>0</nStopA2X>
           </AfterMake>
           <SelectedForBatchBuild>0</SelectedForBatchBuild>
           <SVCSIdString></SVCSIdString>
@@ -1227,8 +1217,6 @@
             <uSurpInc>0</uSurpInc>
             <uC99>0</uC99>
             <useXO>0</useXO>
-            <v6Lang>0</v6Lang>
-            <v6LangP>0</v6LangP>
             <VariousControls>
               <MiscControls></MiscControls>
               <Define></Define>
@@ -1297,9 +1285,9 @@
               <FilePath>.\source\Serial.c</FilePath>
             </File>
             <File>
-              <FileName>lab10b.c</FileName>
+              <FileName>lab10a.c</FileName>
               <FileType>1</FileType>
-              <FilePath>.\lab10b.c</FilePath>
+              <FilePath>.\lab10a.c</FilePath>
             </File>
           </Files>
         </Group>
