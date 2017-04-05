@@ -81,18 +81,18 @@
       <Books>
         <Book>
           <Number>0</Number>
-          <Title>MCB1700 Schematics (MCB1700)</Title>
-          <Path>C:\Keil_v5\ARM\PACK\Keil\LPC1700_DFP\2.2.0\Documents\mcb1700-schematics.pdf</Path>
+          <Title>MCB1700 Quick Start Guide (MCB1700)</Title>
+          <Path>C:\Keil_v5\ARM\PACK\Keil\LPC1700_DFP\2.3.0\Boards\Keil\MCB1700\Documentation\MCB1700_QSG.pdf</Path>
         </Book>
         <Book>
           <Number>1</Number>
-          <Title>User Manual (MCB1700)</Title>
-          <Path>C:\Keil_v5\ARM\PACK\Keil\LPC1700_DFP\2.2.0\Documents\mcb1700.chm</Path>
+          <Title>MCB1700 Schematics (MCB1700)</Title>
+          <Path>C:\Keil_v5\ARM\PACK\Keil\LPC1700_DFP\2.3.0\Boards\Keil\MCB1700\Documentation\mcb1700-schematics.pdf</Path>
         </Book>
         <Book>
           <Number>2</Number>
-          <Title>MCB1700 Quick Start Guide (MCB1700)</Title>
-          <Path>C:\Keil_v5\ARM\PACK\Keil\LPC1700_DFP\2.2.0\Documents\mcb1700_quickstart.pdf</Path>
+          <Title>User Manual (MCB1700)</Title>
+          <Path>C:\Keil_v5\ARM\PACK\Keil\LPC1700_DFP\2.3.0\Boards\Keil\MCB1700\Documentation\mcb1700.chm</Path>
         </Book>
         <Book>
           <Number>3</Number>
@@ -122,6 +122,7 @@
         <tRSysVw>1</tRSysVw>
         <sRunDeb>0</sRunDeb>
         <sLrtime>0</sLrtime>
+        <bEvRecOn>1</bEvRecOn>
         <nTsel>0</nTsel>
         <sDll></sDll>
         <sDllPa></sDllPa>
@@ -171,9 +172,9 @@
         <Bp>
           <Number>0</Number>
           <Type>0</Type>
-          <LineNumber>28</LineNumber>
+          <LineNumber>32</LineNumber>
           <EnabledFlag>0</EnabledFlag>
-          <Address>524</Address>
+          <Address>536</Address>
           <ByteObject>0</ByteObject>
           <HtxType>0</HtxType>
           <ManyObjects>0</ManyObjects>
@@ -182,7 +183,7 @@
           <BreakIfRCount>1</BreakIfRCount>
           <Filename>.\lab10b.c</Filename>
           <ExecCommand></ExecCommand>
-          <Expression>\\example01\lab10b.c\28</Expression>
+          <Expression>\\example01\lab10b.c\32</Expression>
         </Bp>
       </Breakpoint>
       <WatchWindow1>
@@ -237,6 +238,11 @@
       <LintExecutable></LintExecutable>
       <LintConfigFile></LintConfigFile>
       <bLintAuto>0</bLintAuto>
+      <Lin2Executable></Lin2Executable>
+      <Lin2ConfigFile></Lin2ConfigFile>
+      <bLin2Auto>0</bLin2Auto>
+      <bAutoGenD>0</bAutoGenD>
+      <bAuto2GenD>0</bAuto2GenD>
       <DebugDescription>
         <Enable>1</Enable>
         <EnableLog>0</EnableLog>
@@ -325,6 +331,7 @@
         <tRSysVw>1</tRSysVw>
         <sRunDeb>0</sRunDeb>
         <sLrtime>0</sLrtime>
+        <bEvRecOn>1</bEvRecOn>
         <nTsel>1</nTsel>
         <sDll></sDll>
         <sDllPa></sDllPa>
@@ -462,6 +469,22 @@
           <ExecCommand></ExecCommand>
           <Expression></Expression>
         </Bp>
+        <Bp>
+          <Number>6</Number>
+          <Type>0</Type>
+          <LineNumber>32</LineNumber>
+          <EnabledFlag>0</EnabledFlag>
+          <Address>0</Address>
+          <ByteObject>0</ByteObject>
+          <HtxType>0</HtxType>
+          <ManyObjects>0</ManyObjects>
+          <SizeOfObject>0</SizeOfObject>
+          <BreakByAccess>0</BreakByAccess>
+          <BreakIfRCount>0</BreakIfRCount>
+          <Filename>.\lab10b.c</Filename>
+          <ExecCommand></ExecCommand>
+          <Expression></Expression>
+        </Bp>
       </Breakpoint>
       <Tracepoint>
         <THDelay>0</THDelay>
@@ -495,6 +518,11 @@
       <LintExecutable></LintExecutable>
       <LintConfigFile></LintConfigFile>
       <bLintAuto>0</bLintAuto>
+      <Lin2Executable></Lin2Executable>
+      <Lin2ConfigFile></Lin2ConfigFile>
+      <bLin2Auto>0</bLin2Auto>
+      <bAutoGenD>0</bAutoGenD>
+      <bAuto2GenD>0</bAuto2GenD>
     </TargetOption>
   </Target>
 
@@ -577,6 +605,7 @@
         <tRSysVw>1</tRSysVw>
         <sRunDeb>0</sRunDeb>
         <sLrtime>0</sLrtime>
+        <bEvRecOn>1</bEvRecOn>
         <nTsel>0</nTsel>
         <sDll></sDll>
         <sDllPa></sDllPa>
@@ -704,6 +733,22 @@
           <ExecCommand></ExecCommand>
           <Expression></Expression>
         </Bp>
+        <Bp>
+          <Number>6</Number>
+          <Type>0</Type>
+          <LineNumber>32</LineNumber>
+          <EnabledFlag>0</EnabledFlag>
+          <Address>0</Address>
+          <ByteObject>0</ByteObject>
+          <HtxType>0</HtxType>
+          <ManyObjects>0</ManyObjects>
+          <SizeOfObject>0</SizeOfObject>
+          <BreakByAccess>0</BreakByAccess>
+          <BreakIfRCount>0</BreakIfRCount>
+          <Filename>.\lab10b.c</Filename>
+          <ExecCommand></ExecCommand>
+          <Expression></Expression>
+        </Bp>
       </Breakpoint>
       <Tracepoint>
         <THDelay>0</THDelay>
@@ -737,6 +782,11 @@
       <LintExecutable></LintExecutable>
       <LintConfigFile></LintConfigFile>
       <bLintAuto>0</bLintAuto>
+      <Lin2Executable></Lin2Executable>
+      <Lin2ConfigFile></Lin2ConfigFile>
+      <bLin2Auto>0</bLin2Auto>
+      <bAutoGenD>0</bAutoGenD>
+      <bAuto2GenD>0</bAuto2GenD>
     </TargetOption>
   </Target>
 
@@ -751,7 +801,6 @@
       <FileNumber>1</FileNumber>
       <FileType>2</FileType>
       <tvExp>0</tvExp>
-      <Focus>1</Focus>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
       <PathWithFileName>.\startup\startup_LPC17xx.s</PathWithFileName>
@@ -764,7 +813,6 @@
       <FileNumber>2</FileNumber>
       <FileType>1</FileType>
       <tvExp>0</tvExp>
-      <Focus>1</Focus>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
       <PathWithFileName>.\startup\system_LPC17xx.c</PathWithFileName>
@@ -785,7 +833,6 @@
       <FileNumber>3</FileNumber>
       <FileType>1</FileType>
       <tvExp>1</tvExp>
-      <Focus>1</Focus>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
       <PathWithFileName>.\source\Serial.c</PathWithFileName>
@@ -798,7 +845,6 @@
       <FileNumber>4</FileNumber>
       <FileType>1</FileType>
       <tvExp>1</tvExp>
-      <Focus>1</Focus>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
       <PathWithFileName>.\lab10b.c</PathWithFileName>

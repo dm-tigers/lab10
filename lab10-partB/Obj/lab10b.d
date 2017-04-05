@@ -1,5 +1,6 @@
 .\obj\lab10b.o: lab10b.c
 .\obj\lab10b.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\obj\lab10b.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
 .\obj\lab10b.o: .\include\LPC17xx.H
 .\obj\lab10b.o: .\include\core_cm3.h
 .\obj\lab10b.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h

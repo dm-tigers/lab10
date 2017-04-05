@@ -50,7 +50,7 @@ void SER_Init (void) {
   UART->FDR   = 0x21;                     /* FR 1,507, DIVADDVAL=1, MULVAL=2 */
   UART->DLM   = 0;                        /* High divisor latch = 0          */
   UART->LCR   = 0x03;                     /* DLAB = 0                        */
-
+	UART->FCR 	|= 0x01;
 	UART->IER		= 0x3;
 	NVIC_EnableIRQ(UART0_IRQn);
 }
